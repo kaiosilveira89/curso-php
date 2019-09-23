@@ -4,7 +4,7 @@
 <head>
     <meta charset="UTF-8">
     <link href="https://fonts.googleapis.com/css?family=Oswald&display=swap" rel="stylesheet">
-    <link rel="stylesheet" href="recursos/css/estilo.css">
+    <link rel="stylesheet" href="recursos/css/estilo.css">*/
     <title>Curso-PHP</title>
 </head>
 
